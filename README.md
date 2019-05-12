@@ -2,13 +2,13 @@
 
 A module of [Riru](https://github.com/RikkaApps/Riru). Redirect internal browser activity to ACTION_VIEW.
 
-[中文说明](https://github.com/Kr328/Riru-InternalBrowserRedirect-Magisk/README_zh.md)
+[中文说明](https://github.com/Kr328/Riru-InternalBrowserRedirect-Magisk/blob/master/README_zh.md)
 
 
 
 ## Requirements
 
-* [Riru](https://github.com/RikkaApps/Riru) > 19 installed.
+* [Riru - Core](https://github.com/RikkaApps/Riru) > 19 installed.
 * Android 8.0-9.0 (below not tests)
 
 
