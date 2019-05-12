@@ -4,7 +4,7 @@
 
 [Riru](https://github.com/RikkaApps/Riru) 模块 . 用于重定向 应用 内置浏览器 到 外部浏览器 ~~(简单来说就是 去你大爷的内置浏览器)~~
 
-[English](https://github.com/Kr328/Riru-InternalBrowserRedirect-Magisk/README.md)
+[English](https://github.com/Kr328/Riru-InternalBrowserRedirect-Magisk/blob/master/README.md)
 
 
 
