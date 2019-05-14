@@ -1,10 +1,10 @@
-# Riru - InternalBrowserRedirect
+# Riru - InternalBrowserRedirect (Migrated)
 
 A module of [Riru](https://github.com/RikkaApps/Riru). Redirect internal browser activity to ACTION_VIEW.
 
 [中文说明](https://github.com/Kr328/Riru-InternalBrowserRedirect-Magisk/blob/master/README_zh.md)
 
-
+Migrated to [Magisk Repo](https://github.com/Magisk-Modules-Repo/riru_ibr)
 
 ## Requirements
 
